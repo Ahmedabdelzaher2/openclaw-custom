@@ -1,0 +1,14 @@
+playwright
+beautifulsoup4
+lxml
+requests
+fake-useragent
+readability-lxml
+duckduckgo-search
+pandas
+numpy
+pillow
+aiohttp
+fastapi
+uvicorn
+pytesseract

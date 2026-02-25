@@ -1,0 +1,9 @@
+version: "3.8"
+
+services:
+  openclaw:
+    build: .
+    container_name: openclaw
+    ports:
+      - "46485:46485"
+    restart: always
